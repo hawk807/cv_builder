@@ -1,0 +1,27 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/cv-display-checkbox.js": "components/cv-display-checkbox.js",
+    "components/cv-dynamic-section.js": "components/cv-dynamic-section.js",
+    "components/cv-input-tags.js": "components/cv-input-tags.js",
+    "components/cv-preview.js": "components/cv-preview.js",
+    "components/cv-settings.js": "components/cv-settings.js",
+    "components/expansion-panel.js": "components/expansion-panel.js",
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/cv-display-checkbox.js": "components/cv-display-checkbox.js.map",
+    "components/cv-dynamic-section.js": "components/cv-dynamic-section.js.map",
+    "components/cv-input-tags.js": "components/cv-input-tags.js.map",
+    "components/cv-preview.js": "components/cv-preview.js.map",
+    "components/cv-settings.js": "components/cv-settings.js.map",
+    "components/expansion-panel.js": "components/expansion-panel.js.map",
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

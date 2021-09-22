@@ -1,0 +1,26 @@
+{
+  "CvDisplayCheckbox": {
+    "description": "Auto imported from components/CvDisplayCheckbox.vue"
+  },
+  "CvDynamicSection": {
+    "description": "Auto imported from components/CvDynamicSection.vue"
+  },
+  "CvInputTags": {
+    "description": "Auto imported from components/CvInputTags.vue"
+  },
+  "CvPreview": {
+    "description": "Auto imported from components/CvPreview.vue"
+  },
+  "CvSettings": {
+    "description": "Auto imported from components/CvSettings.vue"
+  },
+  "ExpansionPanel": {
+    "description": "Auto imported from components/ExpansionPanel.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cv_builder",
+  "short_name": "cv_builder",
+  "description": "## Build Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5B21B6",
+  "lang": "en"
+}
